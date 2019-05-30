@@ -1,0 +1,49 @@
+table {
+    width: 100%;
+    background-color: #01325B
+  }
+  
+  th.mat-sort-header-sorted {
+    color: white;
+  }
+
+.mat-form-field {
+  font-size: 14px;
+  width: 50%;
+}
+
+.mat-column-position {
+  max-width: 100px;
+}
+
+.mat-column-name {
+  max-width: 100px;
+}
+
+th{
+  color:white;
+}
+td{
+  color:#FFC200;
+}
+.text-buy{
+  color: #00A95D;
+}
+.text-sell{
+  color: #E7152D;
+}
+.text-filled{
+  color: #A9A9A9 ;
+}
+.text-working{
+  color: #FFF ;
+}
+.text-Cancel{
+  color: #E7152D ;
+}
+.mat-input-element {
+  caret-color: #f3f3f3;
+}
+ .mat-form-field-label {
+  color: rgba(255, 254, 254, 0.54)!important;
+}
